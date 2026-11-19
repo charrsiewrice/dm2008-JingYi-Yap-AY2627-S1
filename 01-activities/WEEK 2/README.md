@@ -1,4 +1,4 @@
-# Week ## — Topic Name
+# Week 2 — Control Flows and Intrractivity
 
 <!-- Replace ## with the week number and Topic Name with the week's focus -->
 <!-- You may also refer to each week's slide for the Topic Name -->
@@ -10,8 +10,8 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | <!-- one line description --> |
-| `1b`     | <!-- one line description --> |
+| `2a`     | <Background switch through keys, and shape change depending on position> |
+| `2b`     | <Using a For loop to draw a pattern> |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -19,8 +19,7 @@
 
 ### This Week
 
-<!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
-     A few sentences is all you need — write it like a journal entry, not a report. -->
+<By introducing conditionals and loops to add decision-making, reptition to bring interactivity to sketches as well as to make my code shorter>
 
 ---
 
