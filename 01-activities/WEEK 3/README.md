@@ -1,4 +1,4 @@
-# Week 4 — Object orientated programming (Part 1)
+# Week 3 — Arrays, Functions and Transformations
 
 <!-- Replace ## with the week number and Topic Name with the week's focus -->
 <!-- You may also refer to each week's slide for the Topic Name -->

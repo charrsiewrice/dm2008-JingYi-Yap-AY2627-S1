@@ -1,4 +1,4 @@
-# Week ## — Topic Name
+# Week 4 — Object orientated programming (Part 1)
 
 <!-- Replace ## with the week number and Topic Name with the week's focus -->
 <!-- You may also refer to each week's slide for the Topic Name -->
@@ -10,10 +10,10 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | <!-- one line description --> |
-| `1b`     | <!-- one line description --> |
+| `4a`     | <A moving cookie that changes colour> |
+| `4b`     | <Bubbles that collides and changes size> |
 
-<!-- Add or remove rows to match the activities for this week. -->
+<I learn how to use class as a way to code (constructor and properties as well as collision to make my visual interactive and engaging.>
 
 ---
 
@@ -26,7 +26,10 @@
 
 ### Output
 
-![screenshot](readme-assets/activity 1a.png)
+![screenshot](readme-assets/activity-4a.png)
+![screenshot](readme-assets/activity-4b.png)
+![video](readme-assets/activity-4a-video.mov)
+![video](readme-assets/activity-4b-video.mov)
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
