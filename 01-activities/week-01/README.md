@@ -26,7 +26,7 @@
 
 ### Output
 
-![screenshot](readme-assets/output.png)
+![screenshot](readme-assets/activity 1a.png)
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
