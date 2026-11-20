@@ -17,7 +17,7 @@
 
 ---
 
-### This Week
+### This Weeks
 
 <I learn how to simplify and speed up the creation of code by using arrays and functions such that I can apply the interaction to more features without manually typing a longer code. I also learnt how to utilise transformation to make my visual more engaging.>
 
@@ -25,10 +25,9 @@
 
 ### Output
 
-![screenshot](readme-assets/activity-3a.png)
-![screenshot](readme-assets/activity-3b.png)
-![video](readme-assets/activity-3a-video.mov)
-![video](readme-assets/activity-3b-video.mov)
+![screenshot](readme-assets/activity3b-image01.jpg)
+![screenshot](readme-assets/activity3b-image02.jpg)
+![screenshot](readme-assets/activity3b-image03.jpg)
 
 ### 🎥 Demo Video
 [video 3a] <https://drive.google.com/file/d/1u1lnTNYL-ZJLp2kq_OL6g8Ty9KrGlZYW/view?usp=drive_link>

@@ -1,4 +1,3 @@
-
 let sheepImg;
 let dogImg;
 let treeImg1;
@@ -311,3 +310,4 @@ function drawHouse() {
   // Fixed house position
   image(houseImg, 600, 190, 120, 100);
 }
+

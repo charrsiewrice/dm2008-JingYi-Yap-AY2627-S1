@@ -32,8 +32,8 @@
 ![screenshot](readme-assets/activity1b-image03.jpg)
 
 ### 🎥 Demo Video
-[video 1] <https://drive.google.com/file/d/1rH0GMbgrEv42oUyXw0I3LPVjcPfwBdMy/view?usp=drive_link>
-[video 2] <https://drive.google.com/file/d/1nZG3uWv9CPr4pY5wPiG3WQ1vK5eXJ59y/view?usp=drive_link>
+[video1b_1] <https://drive.google.com/file/d/1rH0GMbgrEv42oUyXw0I3LPVjcPfwBdMy/view?usp=drive_link>
+[video1b_2] <https://drive.google.com/file/d/1nZG3uWv9CPr4pY5wPiG3WQ1vK5eXJ59y/view?usp=drive_link>
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.

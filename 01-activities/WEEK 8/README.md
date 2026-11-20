@@ -1,4 +1,4 @@
-# Week ## — Topic Name
+# Week 8 — Arduno Basics
 
 <!-- Replace ## with the week number and Topic Name with the week's focus -->
 <!-- You may also refer to each week's slide for the Topic Name -->
@@ -10,8 +10,8 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `8a`     | <!-- one line description --> |
-| `8b`     | <!-- one line description --> |
+| `8a`     | <Control the LED with code> |
+| `8b`     | <Using different sensors to see how they respond to changes in the environment> |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -19,8 +19,7 @@
 
 ### This Week
 
-<!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
-     A few sentences is all you need — write it like a journal entry, not a report. -->
+<First time exploring Arduino to try out physical computing and figuring out wiring basics to make code come alive through physical interactions. Understanding how the breadbox and the different elements (LED, resistors etc) work together.>
 
 ---
 
