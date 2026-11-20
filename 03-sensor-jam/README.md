@@ -14,13 +14,16 @@
 
 ### Output
 
-![screenshot](readme-assets/screenshot-01.png)
+![screenshot](documentation/codingjam-image01.jpg)
+![screenshot](documentation/codingjam-image02.jpg)
+![AI-help](AIused.jpg)
+
 
 <!-- Drop a screenshot or GIF of your sketch in action.
      Got a photo of your physical setup too? Throw it in.
      Save everything to a readme-assets/ folder inside this project folder. -->
-
-[Watch Online](https://your-link-here)
+[video1] (https://drive.google.com/file/d/13leNgkDy5uaeQKVbDbMoeyDSZObOAo6p/view?usp=sharing)
+[video2] (https://drive.google.com/file/d/1_V3I_7iStd1vDyQrg7R_6iJ1ZfJbX6Tj/view?usp=drive_link)
 
 <!-- Replace the link above with a URL to a video of your project in action.
      ⚠️ Make sure the file or page is set to public before submitting. -->
