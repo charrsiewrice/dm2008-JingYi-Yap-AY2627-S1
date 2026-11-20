@@ -1,4 +1,4 @@
-# Week 9 — Control Flows and Intrractivity
+# Week 9 — Sensor to screen
 
 <!-- Replace ## with the week number and Topic Name with the week's focus -->
 <!-- You may also refer to each week's slide for the Topic Name -->
@@ -18,7 +18,7 @@
 
 ### This Week
 
-<By introducing conditionals and loops to add decision-making, reptition to bring interactivity to sketches as well as to make my code shorter.>
+<I learnt how to bridge physical inputs with digital inputs and utilise sensor date to create screen-based interactions.>
 
 ---
 

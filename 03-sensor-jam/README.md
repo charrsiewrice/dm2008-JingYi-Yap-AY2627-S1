@@ -1,4 +1,4 @@
-# Sensor Jam — Title
+# Sensor Jam — Light sensor visualiser
 
 <!-- Replace "Title" with the name of your project, e.g. "Sensor Jam — Theremin Visualiser" -->
 
@@ -6,9 +6,7 @@
 
 ### The Project
 
-<!-- What does your sketch do, and what physical input drives it?
-     How does the sensor data translate into something on screen?
-     A few sentences is all you need. -->
+<My sketch is driven by sound input, using sound waves detected by the sensor. The sensor picks up changes in sound levels and translates them into visual changes on the screen, allowing the visuals to respond dynamically to the surrounding audio environment.>
 
 ---
 
