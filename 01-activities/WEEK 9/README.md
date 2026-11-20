@@ -10,8 +10,7 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `2a`     | <Background switch through keys, and shape change depending on position> |
-| `2b`     | <Using a For loop to draw a pattern> |
+| `9a`     | <Background switch through keys, and shape change depending on position> |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -25,7 +24,11 @@
 
 ### Output
 
-![screenshot](readme-assets/activity 1a.png)
+![screenshot](readme-assets/activity9a-image01.jpg)
+![screenshot](readme-assets/activity9a-image02.jpg)
+
+### 🎥 Demo Video
+[video] <https://drive.google.com/file/d/1hfBJVbLKn50AdrqXupi5x6XibUkI0BHS/view?usp=drive_link>
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
