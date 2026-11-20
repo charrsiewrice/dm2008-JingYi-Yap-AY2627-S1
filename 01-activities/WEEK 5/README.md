@@ -24,9 +24,11 @@
 
 ### Output
 
-![screenshot](readme-assets/activity-5a-before-collide.png)
-![screenshot](readme-assets/activity-5a-after-collide.png)
-![screenshot](readme-assets/activity-5a-video.mov)
+![screenshot](readme-assets/activity-5a-before-collide.jpg)
+![screenshot](readme-assets/activity-5a-after-collide.jpg)
+
+### 🎥 Demo Video
+[video5a] <https://drive.google.com/file/d/1Z6fuv4aFQSob7aOf04CCERojbwgbUxXO/view?usp=drive_link>
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.

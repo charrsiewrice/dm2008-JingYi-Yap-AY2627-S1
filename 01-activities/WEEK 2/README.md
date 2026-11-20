@@ -25,11 +25,16 @@
 
 ### Output
 
-![screenshot](readme-assets/activity-2a.png)
-![screenshot](readme-assets/activity-2b.png)
-![video](readme-assets/activity-2a-video.mov)
-![video](readme-assets/activity-2b-video.mov)
+![screenshot](readme-assets/activity2a-image01.jpg)
+![screenshot](readme-assets/activity2a-image02.jpg)
+![screenshot](readme-assets/activity2a-image03.jpg)
+![screenshot](readme-assets/activity2b-image01.jpg)
+![screenshot](readme-assets/activity2b-image02.jpg)
+![screenshot](readme-assets/activity2b-image03.jpg)
 
+### 🎥 Demo Video
+[video2a] <https://drive.google.com/file/d/1_ydeorcDrczlqg9h_RXhSCfvAPsQhz5s/view?usp=drive_link>
+[video2b] <https://drive.google.com/file/d/1sNWhZMGDTbvMcliXmtcyjVt5DY59esC0/view?usp=drive_link>
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
      Made more than one thing worth showing? Add more images. -->

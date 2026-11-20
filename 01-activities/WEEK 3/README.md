@@ -30,6 +30,9 @@
 ![video](readme-assets/activity-3a-video.mov)
 ![video](readme-assets/activity-3b-video.mov)
 
+### 🎥 Demo Video
+[video 3a] <https://drive.google.com/file/d/1u1lnTNYL-ZJLp2kq_OL6g8Ty9KrGlZYW/view?usp=drive_link>
+[video 3b] <https://drive.google.com/file/d/1afunc0639AOUybn4Y9s6F1KNmL84w4TH/view?usp=drive_link>
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
      Made more than one thing worth showing? Add more images. -->
